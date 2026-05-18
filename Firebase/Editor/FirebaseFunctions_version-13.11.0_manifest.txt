@@ -1,6 +1,8 @@
+Assets/Firebase/FirebaseFunctions/Firebase.Functions.asmdef
 Assets/Firebase/FirebaseFunctions/FirebaseFunctions.cs
 Assets/Firebase/FirebaseFunctions/FunctionsErrorCodes.cs
 Assets/Firebase/FirebaseFunctions/FunctionsException.cs
+Assets/Firebase/FirebaseFunctions/HttpsCallableOptions.cs
 Assets/Firebase/FirebaseFunctions/HttpsCallableReference.cs
 Assets/Firebase/FirebaseFunctions/HttpsCallableResult.cs
 Assets/Firebase/FirebaseFunctions/Internal/FunctionsErrorParser.cs
