@@ -7,4 +7,5 @@ Assets/Firebase/FirebaseFunctions/HttpsCallableReference.cs
 Assets/Firebase/FirebaseFunctions/HttpsCallableResult.cs
 Assets/Firebase/FirebaseFunctions/Internal/FunctionsErrorParser.cs
 Assets/Firebase/FirebaseFunctions/Internal/FunctionsSerializer.cs
+Assets/Firebase/FirebaseFunctions/StreamResponse.cs
 Assets/package.json
